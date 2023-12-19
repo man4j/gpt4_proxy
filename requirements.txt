@@ -1,5 +1,4 @@
 fastapi[all]
 uvicorn
 openai
-os
 pydantic
